@@ -1,4 +1,4 @@
-# Reading lists for recent history.
+# My reading lists for recent history.
 
 ## 2018
 
@@ -16,7 +16,7 @@
 1.  Why we sleep: Unlocking the power of sleep and dreams [Matthew Walker]
 2.  Sapiens: A Brief History of Humankind [Yuval Noah Harari]
 3.  The 7 Habits of Highly Effective People [Stephen R. Covey] 
-4.  How to win friends&Influence People [Dale Carnegie]
+4.  How to win friends & Influence People [Dale Carnegie]
 5.  Flow: The Psychology of Optimal Experience [Mihaly Csikszentmihalyi]
 6.  Shoe Dog: A Memoir by the Creator of Nike [Phil Knight]
 7.  Digital Minimalism [Cal Newport]
