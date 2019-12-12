@@ -2,7 +2,18 @@ import hashlib
 import time
 import datetime
 
-hash = hashlib.sha256(password.encode('utf-8')).hexdigest()
+password = "engagingAfterburners"
+
+ts = int(time.time())
+ts_s = str(time.time()).encode('utf-8')
+
+
+
+
+hash = hashlib.sha256(password.encode('utf-8'))
+hash.update(ts_s)
+
+hash = hash.hexdigest()
 
 # print (hash)
 # print (hash.hexdigest()[:10])
@@ -47,6 +58,6 @@ output.write(string1)
 output.close()
 
 output = open("key.html","a+")
-output.write(hash.hexdigest()[:10])
+output.write(hash)
 output.write(string2)
 output.close()
