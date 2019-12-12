@@ -2,13 +2,7 @@ import hashlib
 import time
 import datetime
 
-ts = int(time.time())
-ts_s = str(time.time()).encode('utf-8')
-password = "engagingAfterburners".encode('utf-8')
-
-hash = hashlib.sha256()
-hash.update(password)
-hash.update(ts_s)
+hash = hashlib.sha256(password.encode('utf-8')).hexdigest()
 
 # print (hash)
 # print (hash.hexdigest()[:10])
