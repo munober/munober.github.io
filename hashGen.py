@@ -10,8 +10,8 @@ hash = hashlib.sha256()
 hash.update(password)
 hash.update(ts_s)
 
-print (hash)
-print (hash.hexdigest()[:10])
+# print (hash)
+# print (hash.hexdigest()[:10])
 string = """<head>
     <!-- well done, little padawan -->
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
