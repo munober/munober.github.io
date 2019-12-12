@@ -32,6 +32,8 @@ string = """<head>
 string1 = """<head>
     <!-- well done, little padawan -->
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <!-- <Cache-Control: no-store></Cache-Control:> -->
+    <meta http-equiv="Cache-control" content = "No-cache">
 </head>
 
 <html>
