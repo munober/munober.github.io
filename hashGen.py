@@ -13,7 +13,7 @@ hash.update(ts_s) ## Adding timestamp as salt to hash
 hash = hash.hexdigest()
 
 ### Prints for debugging
-# print (hash)
+print ("Generated hash: ", hash)
 # print(timestamp)
 
 string = """<head>
