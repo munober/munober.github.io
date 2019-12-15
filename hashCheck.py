@@ -1,6 +1,6 @@
 with open("check.txt","r") as textfile:
     content = textfile.read()
-    hashToCheck = content[436:-49]
+    hashToCheck = content[436:-82]
     print("Found hash on website: ", hashToCheck)
 with open("generatedHash.txt", "r") as generatedHash:
     compare = generatedHash.read()
