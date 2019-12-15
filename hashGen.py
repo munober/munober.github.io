@@ -61,6 +61,7 @@ output.close()
 
 output = open("key.html","a+")
 output.write(hash)
+output.write("*")
 output.write(string2)
 output.write(str(timestamp))
 output.close()
