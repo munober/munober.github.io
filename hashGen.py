@@ -63,6 +63,7 @@ output = open("key.html","a+")
 output.write(hash)
 output.write(string2)
 output.write(str(timestamp))
+output.write(string3)
 output.close()
 
 with open("generatedHash.txt","w+") as textfile:
