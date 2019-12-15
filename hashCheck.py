@@ -1,9 +1,10 @@
 with open("check.txt","r") as textfile:
-    content = textfile.readlines()
-    hashToCheck = content[435:-49]
+    content = textfile.read()
+    hashToCheck = content[436:-49]
     print("Found hash on website: ", hashToCheck)
 with open("generatedHash.txt", "r") as generatedHash:
-    compare = generatedHash.readlines()
+    compare = generatedHash.read()
+    print("Hash to compare to: ", compare)
     if hashToCheck == compare:
         print("Hashes match.")
     else:
