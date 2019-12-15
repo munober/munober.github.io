@@ -4,7 +4,7 @@ with open("check.txt","r") as textfile:
     print("Found hash on website: ", hashToCheck)
 with open("generatedHash.txt", "r") as generatedHash:
     compare = generatedHash.read()
-    print("Hash to compare to: ", compare)
+    print("Hash to compare to:    ", compare)
     if hashToCheck == compare:
         print("Hashes match.")
     else:
