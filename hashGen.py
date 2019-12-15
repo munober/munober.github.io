@@ -65,6 +65,5 @@ output.write(string2)
 output.write(str(timestamp))
 output.close()
 
-with open("hashTimestamp.txt","w+") as textfile:
-    textfile.write(str(timestamp))
-
+with open("generatedHash.txt","w+") as textfile:
+    textfile.write(hash)
