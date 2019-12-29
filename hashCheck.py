@@ -6,6 +6,6 @@ with open("generatedHash.txt", "r") as generatedHash:
     compare = generatedHash.read()
     print("Hash to compare to:    ", compare)
     if hashToCheck == compare:
-        print("Hashes match.")
+        print("Hashes match.\033[92m")
     else:
-        print("Hashes dont yet match.")
+        print("Hashes dont yet match.\033[92m")
