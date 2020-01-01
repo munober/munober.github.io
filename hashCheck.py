@@ -1,3 +1,8 @@
+from termcolor import colored
+
+# For older python
+# print colored('hello', 'red'), colored('world', 'green')
+
 class bcolors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
@@ -17,8 +22,10 @@ with open("generatedHash.txt", "r") as generatedHash:
     print("Hash to compare to:    ", compare)
     if hashToCheck == compare:
         # print("Hashes match.\033[92m")
-        print(f"{bcolors.OKGREEN}Hashes match.{bcolors.ENDC}")
+        # print(f"{bcolors.OKGREEN}Hashes match.{bcolors.ENDC}")
+        print(colored('Hashes match.', 'green'))
     else:
         # print("Hashes dont yet match.\033[92m")
-        print(f"{bcolors.WARNING}Hashes dont yet match.{bcolors.ENDC}")
+        # print(f"{bcolors.WARNING}Hashes dont yet match.{bcolors.ENDC}")
+        print(colored('Hashes dont yet match.', 'red'))
 
