@@ -21,11 +21,7 @@ with open("generatedHash.txt", "r") as generatedHash:
     compare = generatedHash.read()
     print("Hash to compare to:    ", compare)
     if hashToCheck == compare:
-        # print("Hashes match.\033[92m")
-        # print(f"{bcolors.OKGREEN}Hashes match.{bcolors.ENDC}")
         print(colored('Hashes match.', 'green'))
     else:
-        # print("Hashes dont yet match.\033[92m")
-        # print(f"{bcolors.WARNING}Hashes dont yet match.{bcolors.ENDC}")
         print(colored('Hashes dont yet match.', 'red'))
 
