@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Welcome to **fratiloiu.com**.
+Welcome to *frah-tee-low-you*.com.
 
 This place serves 2 main purposes. 
 
