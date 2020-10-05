@@ -6,44 +6,6 @@ permalink: /reading/
 
 My reading lists for recent history. 
 
-**2018** 
-
-1.	Creativity Inc. [Amy Wallace, Ed Catmull]
-2.	Wer bin ich und wenn ja wie viele [Richard David Precht]
-3.	Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future [Ashlee Vance]
-4.	Thinking, fast and slow [Daniel Kahneman]
-5.	12 Rules for life [Jordan B. Peterson]
-6.	Algorithms to live by [Brian Christian]
-7.	The subtle art of not giving a f*ck [Mark Manson]
-8.	Ciocoii vechi si noi [Nicolae Filimon]
-
-
-**2019** 
-
-1.	Why we sleep: Unlocking the power of sleep and dreams [Matthew Walker]
-2.	Sapiens: A Brief History of Humankind [Yuval Noah Harari]
-3.	The 7 Habits of Highly Effective People [Stephen R. Covey]
-4.	How to win friends & Influence People [Dale Carnegie]
-5.	Flow: The Psychology of Optimal Experience [Mihaly Csikszentmihalyi]
-6.	Shoe Dog: A Memoir by the Creator of Nike [Phil Knight]
-7.	Digital Minimalism [Cal Newport]
-8.	Atomic Habits [James Clear]
-9.	Man's search for meaning [Viktor E. Frankl]
-10.	Never Split the Difference [Chris Voss]
-11.	Ego is the Enemy [Ryan Holiday]
-12.	The War of Art: Break Through Your Blocks and Win Your Inner Creative Battles [Steven Pressfield]
-13.	Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think [Hans Rosling]
-14.	Deep Work: Rules for focused Success in a Distracted World [Cal Newport]
-15.	I will teach you to be rich [Ramit Sethi]
-16.	The Design of Everyday Things [Don Norman]
-17.	The Millionaire Fastlane [MJ DeMarco]
-18.	Enlightenment Now: The case for Reason, Science, Humanism and Progress [Stephen Pinker]
-19.	Surely Youâ€™re Joking, Mr. Feynman! [Richard Feynman]
-20.	Talking to strangers [Malcolm Gladwell]
-21.	Stillness is the key [Ryan Holiday]
-22.	How to not Die [Michael Greger PhD.]
-23.	21 Lessons for the 21st century [Yuval Noah Harari]
-
 **2020** 
 
 1.	The lean Startup [Eric Ries]
@@ -85,3 +47,40 @@ My reading lists for recent history.
 37.	Essentialism [Greg McKeown]
 38.	QualityLand [Mark-Uwe Kling]
 39.	The Hard Thing About Hard Things [Ben Horowitz]
+
+**2019** 
+
+1.	Why we sleep: Unlocking the power of sleep and dreams [Matthew Walker]
+2.	Sapiens: A Brief History of Humankind [Yuval Noah Harari]
+3.	The 7 Habits of Highly Effective People [Stephen R. Covey]
+4.	How to win friends & Influence People [Dale Carnegie]
+5.	Flow: The Psychology of Optimal Experience [Mihaly Csikszentmihalyi]
+6.	Shoe Dog: A Memoir by the Creator of Nike [Phil Knight]
+7.	Digital Minimalism [Cal Newport]
+8.	Atomic Habits [James Clear]
+9.	Man's search for meaning [Viktor E. Frankl]
+10.	Never Split the Difference [Chris Voss]
+11.	Ego is the Enemy [Ryan Holiday]
+12.	The War of Art: Break Through Your Blocks and Win Your Inner Creative Battles [Steven Pressfield]
+13.	Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think [Hans Rosling]
+14.	Deep Work: Rules for focused Success in a Distracted World [Cal Newport]
+15.	I will teach you to be rich [Ramit Sethi]
+16.	The Design of Everyday Things [Don Norman]
+17.	The Millionaire Fastlane [MJ DeMarco]
+18.	Enlightenment Now: The case for Reason, Science, Humanism and Progress [Stephen Pinker]
+19.	Surely Youâ€™re Joking, Mr. Feynman! [Richard Feynman]
+20.	Talking to strangers [Malcolm Gladwell]
+21.	Stillness is the key [Ryan Holiday]
+22.	How to not Die [Michael Greger PhD.]
+23.	21 Lessons for the 21st century [Yuval Noah Harari]
+
+**2018** 
+
+1.	Creativity Inc. [Amy Wallace, Ed Catmull]
+2.	Wer bin ich und wenn ja wie viele [Richard David Precht]
+3.	Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future [Ashlee Vance]
+4.	Thinking, fast and slow [Daniel Kahneman]
+5.	12 Rules for life [Jordan B. Peterson]
+6.	Algorithms to live by [Brian Christian]
+7.	The subtle art of not giving a f*ck [Mark Manson]
+8.	Ciocoii vechi si noi [Nicolae Filimon]
