@@ -28,7 +28,7 @@ github_username:  munober
 instagram_username: teo_fratiloiu
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
