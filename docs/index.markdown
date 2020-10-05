@@ -6,5 +6,5 @@ layout: page
 ---
 
 I like telling stories.  
-See my [**CV**](/cv).  
+[See my **CV**](/cv).  
 [Contact me](mailto:teo@fratiloiu.com).
