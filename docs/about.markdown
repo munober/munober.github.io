@@ -4,14 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome to fratiloiu.com 
+I'm all about creating things and telling stories.
 
-This place serves 2 main purposes. 
-
-1. having my [resume](https://fratiloiu.com/resume.pdf) available on the internet; 
-2. putting my email address out in the open: [teo@fratiloiu.com](mailto:teo@fratiloiu.com);
-
-You can then find some other stuff, like [some book titles](https://fratiloiu.com/reading) I like, or my [socials](https://fratiloiu.com/links). 
-
-Also, pretty much everybody who isn’t a native speaker of Romanian will have trouble pronouncing my last name. 
-It kinda goes like this: frah-tee-low-you.
+Pretty much everybody who isn’t a native speaker of Romanian will have trouble pronouncing my last name. 
+It kinda goes like this: *frah-tee-low-you*.
