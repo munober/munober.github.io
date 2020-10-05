@@ -9,7 +9,6 @@ permalink: /cv/
 ## Personal details
 
 *Birth* March 23, 1999 in Bucharest  
-*Address* Freisinger Landstr. 86, D-80939 Munich  
 *Phone* +49 (0) 162 855 3201}  
 *Mail* [teo@fratiloiu.com](mailto:teo@fratiloiu.com)
 
