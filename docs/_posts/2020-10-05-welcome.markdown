@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome"
+date:   2020-10-05 15:16:44 +0200
+categories: jekyll update
+---
+
+Finally got around to making this place look fancier.
