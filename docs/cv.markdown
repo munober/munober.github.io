@@ -9,7 +9,7 @@ permalink: /cv/
 ## Personal details
 
 *Birth* March 23, 1999 in Bucharest  
-*Phone* +49 (0) 162 855 3201}  
+*Phone* +49 (0) 162 855 3201  
 *Mail* [teo@fratiloiu.com](mailto:teo@fratiloiu.com)
 
 ## Education
