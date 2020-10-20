@@ -15,7 +15,7 @@ permalink: /cv/
 ## Education
 
 **Technical University of Munich**  
-*BSc. Electrical Engineering and Information Technology*  2017-2020  
+*B.Sc. Electrical Engineering and Information Technology*  2017-2020  
 Bachelor's Thesis: *TinyFace: Extreme Edge Face Detection on Embedded Devices* ([read here](https://github.com/munober/thesis/blob/master/digital_edition.pdf))
 
 ## Work experience
