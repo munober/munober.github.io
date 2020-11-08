@@ -19,6 +19,7 @@
 	\textheight=700px                    % Saving trees ;-)
 \usepackage{url}
 \usepackage{hyperref}
+\usepackage{wrapfig}
 
 \frenchspacing              % Better looking spacings after periods
 \pagestyle{empty}           % No pagenumbers/headers/footers
@@ -38,7 +39,8 @@
 \newcommand{\sepspace}{\vspace*{1em}}		% Vertical space macro
 
 \newcommand{\MyName}[1]{ % Name
-		\Huge \usefont{OT1}{phv}{b}{n} \hfill #1
+
+\Huge \usefont{OT1}{phv}{b}{n} \hfill #1
 		\par \normalsize \normalfont}
 		
 \newcommand{\MySlogan}[1]{ % Slogan (optional)
@@ -61,15 +63,14 @@
 		
 \newcommand{\EducationEntry}[4]{
 		\noindent \textbf{#1} \hfill      % Study
-		\colorbox{Black}{%
-			\parbox{6em}{%
-			\hfill\color{White}#2}} \par  % Duration
+		%\colorbox{Black}{\parbox{6em}{\hfill\color{White}#2}} \par  % Duration
+		\colorbox{Black}{\color{White}#2} \par  % Duration
 		\noindent \textit{#3} \par        % School
 		\noindent\hangindent=2em\hangafter=0 \small #4 % Description
 		\normalsize \par}
 
 \newcommand{\WorkEntry}[4]{				  % Same as \EducationEntry
-		\noindent \textbf{#1} @ \textit{#3} \hfill      % Jobname
+		\noindent \textbf{#1} @ \textit{#3} \hfill      % Jobname & Company
 		\colorbox{Black}{\color{White}#2} \par  % Duration
 		% \noindent \textit{#3} \par              % Company
 		\noindent\hangindent=2em\hangafter=0 \small #4 % Description
@@ -79,13 +80,13 @@
 %%% ------------------------------------------------------------
 \begin{document}
 % you can upload a photo and include it here...
-%\begin{wrapfigure}{l}{0.5\textwidth}
-%	\vspace*{-2em}
-%		\includegraphics[width=0.15\textwidth]{photo}
-%\end{wrapfigure}
+\begin{wrapfigure}{l}{0.5\textwidth}
+	\vspace*{-2em}
+	\includegraphics[width=0.15\textwidth]{teo}
+\end{wrapfigure}
 
 \MyName{Teodor Fratiloiu}
-% \MySlogan{Curriculum Vitae}
+\MySlogan{}
 
 \sepspace
 
@@ -103,7 +104,7 @@
 %%% ------------------------------------------------------------
 \NewPart{Education}{}
 
-%\EducationEntry{M.Sc. Electrical Engineering and Information Technology}{2020-2022}{Technical University of Munich}{Degree in progress. Expected to finish in 2022. My focus is on Machine Learning, IoT and Communications Engineering.}
+\EducationEntry{M.Sc. Electrical Engineering and Information Technology}{2020-2022}{Technical University of Munich}{Degree in progress. Expected to finish in 2022. My focus is on Machine Learning, IoT and Communications Engineering.}
 \sepspace
 
 \EducationEntry{B.Sc. Electrical Engineering and Information Technology}{2017-2020}{Technical University of Munich}{Graduated. Thesis about Machine Learning on IoT devices, titled \textit{TinyFace: Extreme Edge Face Detection on Embedded Devices} (\href{https://github.com/munober/thesis/blob/master/digital_edition.pdf}{\underline{read here}}). Teaching was almost exclusively in German.}
@@ -127,12 +128,12 @@
 %%% ------------------------------------------------------------
 \NewPart{Skills}{}
 
-\SkillsEntry{Languages}{German (near native)}
-\SkillsEntry{}{English (mother tongue)}
-\SkillsEntry{}{Romanian (mother tongue)}
-
+\SkillsEntry{Languages}{English (Native)}
+\SkillsEntry{}{German (Full Professional Proficiency)}
+\SkillsEntry{}{Romanian (Native)}
+\SkillsEntry{}{}
 \SkillsEntry{Software}{Python, \textsc{C/C++}, \LaTeX, Final Cut Pro}
-\SkillsEntry{Miscellaneous}{EU Driver's License}
+\SkillsEntry{Misc}{EU Driver's License}
 
 
 %%% References
