@@ -26,7 +26,7 @@ My reading lists for recent history.
 16.	Total Recall [Arnold Schwarzenegger]
 17.	Finding my Virginity [Richard Branson]
 18.	Maps of Meaning [Jordan Peterson]
-19.	**The Laws of Human Nature [Robert Greene]**
+19.	The Laws of Human Nature [Robert Greene]
 20.	The Prince [Niccolo Machiavelli]
 21.	Power [Robert Greene]
 22.	The 4 Hour Workweek [Tim Ferriss]
@@ -38,16 +38,16 @@ My reading lists for recent history.
 28.	Basic Economics, Fifth Edition [Thomas Sowell]
 29.	The Power of Habit [Charles Duhigg]
 30.	Mastery [Robert Greene]
-31.	**The Intelligent Investor [Benjamin Graham]**
-32.	**Smarter Faster Better [Charles Duhigg]**
+31.	The Intelligent Investor [Benjamin Graham]
+32.	Smarter Faster Better [Charles Duhigg]
 33.	Barking up the Wrong Tree [Eric Barker]
-34.	**Zero to One [Peter Thiel]**
+34.	The Ride of A Lifetime [Robert Iger]
 35.	Essentialism [Greg McKeown]
-36.	**QualityLand [Mark-Uwe Kling]**
-37.	**The Hard Thing About Hard Things [Ben Horowitz]**
-38.	**The Ride of A Lifetime [Robert Iger]**
-39. **Why Nations Fail [Daron Acemoglu, James A. Robinson]**
-40. **The Monk and the Riddle [Randy Komisar]**
+36.	QualityLand [Mark-Uwe Kling]
+37.	The Hard Thing About Hard Things [Ben Horowitz]
+38.	Zero to One [Peter Thiel]
+39. Why Nations Fail [Daron Acemoglu, James A. Robinson]
+40. The Monk and the Riddle [Randy Komisar]
 
 **2019** 
 
