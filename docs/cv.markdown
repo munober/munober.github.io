@@ -8,9 +8,8 @@ permalink: /cv/
 
 ## Personal details
 
-*Birth* March 23, 1999 in Bucharest  
-*Phone* +49 (0) 162 855 3201  
-*Mail* [teo@fratiloiu.com](mailto:teo@fratiloiu.com)
+*Born in* 1999 in Bucharest   
+*Email* [teo@fratiloiu.com](mailto:teo@fratiloiu.com)
 
 ## Education
 
@@ -34,8 +33,8 @@ I was the leader of the organizing team of the 2016 edition of my high school’
 
 ## Skills
 *Languages*  
-English (mother tongue)  
-Romanian (mother tongue)  
+English (native)  
+Romanian (native)  
 German (near native)  
 
 *Software*  
