@@ -6,6 +6,14 @@ permalink: /reading/
 
 My reading lists for recent history. 
 
+**2021**
+
+1. Zero to One [Peter Thiel]
+2. The Hard Thing About Hard Things [Ben Horowitz]
+3. Why Nations Fail [Daron Acemoglu, James A. Robinson]
+4. The Monk and the Riddle [Randy Komisar]
+5. The Velvet Rope Economey [Nelson Schwartz]
+
 **2020** 
 
 1.	The lean Startup [Eric Ries]
@@ -16,13 +24,13 @@ My reading lists for recent history.
 6.	The Daily Stoic [Ryan Holiday]
 7.	Principles [Ray Dalio]
 8.	Security Engineering: A Guide to Building Dependable Distributed Systems [Ross Anderson]
-9.	So good they can't ignore you [Cal Newport]
-10.	The Origin of Species [Charles Darwin]
-11.	How to talk to anyone [Leil Lowndes]
-12.	Benjamin Franklin: An American Life [Walter Isaacson]
-13.	The Gulag Archipelago [Aleksandr Solzhenitsyn]
-14.	Don Quixote [Cervantes]
-15.	The Obstacle is the way [Ryan Holiday]
+9.	The Origin of Species [Charles Darwin]
+10.	How to talk to anyone [Leil Lowndes]
+11.	Benjamin Franklin: An American Life [Walter Isaacson]
+12.	The Gulag Archipelago [Aleksandr Solzhenitsyn]
+13.	Don Quixote [Cervantes]
+14.	The Obstacle is the way [Ryan Holiday]
+15. QualityLand [Mark-Uwe Kling]
 16.	Total Recall [Arnold Schwarzenegger]
 17.	Finding my Virginity [Richard Branson]
 18.	Maps of Meaning [Jordan Peterson]
@@ -43,11 +51,6 @@ My reading lists for recent history.
 33.	Barking up the Wrong Tree [Eric Barker]
 34.	The Ride of A Lifetime [Robert Iger]
 35.	Essentialism [Greg McKeown]
-36.	QualityLand [Mark-Uwe Kling]
-37.	The Hard Thing About Hard Things [Ben Horowitz]
-38.	Zero to One [Peter Thiel]
-39. Why Nations Fail [Daron Acemoglu, James A. Robinson]
-40. The Monk and the Riddle [Randy Komisar]
 
 **2019** 
 
