@@ -44,7 +44,7 @@
 		\par \normalsize \normalfont}
 		
 \newcommand{\MySlogan}[1]{ % Slogan (optional)
-		\large \usefont{OT1}{phv}{m}{n}\hfill \textit{#1}
+		\Large \usefont{OT1}{phv}{m}{n}\hfill \text{#1}
 		\par \normalsize \normalfont}
 
 \newcommand{\NewPart}[1]{\section*{\uppercase{#1}}}
@@ -86,20 +86,38 @@
 \end{wrapfigure}
 
 \MyName{Teodor Fratiloiu}
-\MySlogan{}
+\MySlogan{teo@fratiloiu.com}
 
 \sepspace
 
 %%% Personal details
 %%% ------------------------------------------------------------
-\NewPart{Personal details}{}
+%\NewPart{Personal details}{}
 
 % \PersonalEntry{Birth}{March 23, 1999 in Bucharest}
-\PersonalEntry{Born in}{1999}
+% \PersonalEntry{Born in}{1999}
 % \PersonalEntry{Address}{Freisinger Landstr. 86, D-80939 Munich}
 % \PersonalEntry{Phone}{+49 162 855 3201}
-\PersonalEntry{Email}{\url{teo@fratiloiu.com}}
-\PersonalEntry{Nationality}{Romanian}
+% \PersonalEntry{Email}{\url{teo@fratiloiu.com}}
+% \PersonalEntry{Nationality}{Romanian}
+
+%%% Work experience
+%%% ------------------------------------------------------------
+\NewPart{Work experience}{}
+
+\WorkEntry{Junior Information Security Manager}{2020-2021}{Celonis SE (Munich)}{Celonis is a rapidly-expanding SaaS B2B upstart, based in New York and Munich. As part of the System Engineering team, my tasks included working on audit and compliance processes, developing and maintaining company policies and SOP's, establishing, organizing and managing internal training programs. I have also contributed to the development of the tool stack and processes used for information security, data privacy and risk management.}
+\sepspace
+
+\WorkEntry{Student Assistant}{2020-2021}{SEC (Technical University of Munich)}{I have worked with the chair for Information Security to prepare lecture material for remote teaching, and held live online labs myself for EE students in Munich and Singapore.}
+\sepspace
+
+\WorkEntry{Team Lead}{2018-2019}{adveisor (Technical University of Munich)}{I took on a leadership and mentoring role for a team of 10, assuming project and product management responsibilities. I also hosted workshops for university students on topics such as project and time management, group dynamics, team leadership and basic negotiation.}
+\sepspace
+
+\WorkEntry{Camp Assistant}{2017-2019}{Tumba (Brasov, Romania), During the summer}{ I have worked as a tutor in several German-language, international summer camps in Transylvania, with participating children aged 6-14. My coworkers came from very different backgrounds and countries.}
+\sepspace
+
+% \WorkEntry{Secretary-General}{2015-2016}{Model United Nations of Bucharest}{ I was the leader of the organizing team of the 2016 edition of my high school’s international MUN conference, with over 350 participants, 200 of which came from abroad.}
 
 %%% Education
 %%% ------------------------------------------------------------
@@ -108,33 +126,18 @@
 \EducationEntry{M.Sc. Electrical Engineering and Information Technology}{2020-2022}{Technical University of Munich}{Degree in progress. Expected to finish in 2022. My focus is on Machine Learning, IoT and Communications Engineering.}
 \sepspace
 
-\EducationEntry{B.Sc. Electrical Engineering and Information Technology}{2017-2020}{Technical University of Munich}{Graduated. Thesis about Machine Learning on IoT devices, titled \textit{TinyFace: Extreme Edge Face Detection on Embedded Devices} (\href{https://github.com/munober/thesis/blob/master/digital_edition.pdf}{\underline{read here}}). Teaching was almost exclusively in German.}
-
-%%% Work experience
-%%% ------------------------------------------------------------
-\NewPart{Work experience}{}
-
-\WorkEntry{Student Assistant}{2020-2021}{TUM-SEC (Munich), Part-time}{I am working with the chair for IT Security to prepare lecture material for remote teaching, and do real-time online teaching myself for students in Munich and Singapore.}
-\sepspace
-
-\WorkEntry{adveisor}{2018-2019}{TUM-LSR (Munich), Part-time}{I held soft-skills workshops for students on topics such as project and time management, group dynamics, teamwork and mediation.}
-\sepspace
-
-\WorkEntry{Camp Assistant}{2017-2019}{Tumba (Brasov, Romania), Full-time during summer}{ I have worked as a tutor in several German-language summer camps, with participating children aged 6-14.}
-\sepspace
-
-\WorkEntry{Secretary-General}{2015-2016}{Model United Nations of Bucharest}{ I was the leader of the organizing team of the 2016 edition of my high school’s international MUN conference, with over 350 participants, 200 of which came from abroad.}
+\EducationEntry{B.Sc. Electrical Engineering and Information Technology}{2017-2020}{Technical University of Munich}{My graduation thesis was about Machine Learning on IoT devices. It was titled \textit{TinyFace: Extreme Edge Face Detection on Embedded Devices} (\href{https://github.com/munober/thesis/blob/master/digital_edition.pdf}{\underline{read here}}). This degree was taught almost exclusively in German.}
 
 %%% Skills
 %%% ------------------------------------------------------------
 \NewPart{Skills}{}
 
-\SkillsEntry{Languages}{English (Native)}
-\SkillsEntry{}{German (Full Professional Proficiency)}
-\SkillsEntry{}{Romanian (Native)}
-\SkillsEntry{}{}
-\SkillsEntry{Software}{Python, \textsc{C/C++}, Git, \LaTeX, TensorFlow, Final Cut Pro}
-\SkillsEntry{Misc}{EU Driver's License}
+\SkillsEntry{I speak - }{English, German, Romanian}
+% \SkillsEntry{}{German (Full Professional Proficiency)}
+% \SkillsEntry{}{Romanian (Native)}
+\SkillsEntry{Programming}{Python, \textsc{C/C++}, Git}
+\SkillsEntry{Frameworks}{TensorFlow, React.js}
+\SkillsEntry{Misc}{EU Driver's License, Final Cut Pro video editing, \LaTeX}
 
 
 %%% References
