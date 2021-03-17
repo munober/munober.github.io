@@ -13,6 +13,7 @@ My reading lists for recent history.
 3. Why Nations Fail [Daron Acemoglu, James A. Robinson]
 4. The Monk and the Riddle [Randy Komisar]
 5. The Velvet Rope Economey [Nelson Schwartz]
+6. How to Avoid a Climate Disaster [Bill Gates]
 
 **2020** 
 
