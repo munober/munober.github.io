@@ -39,5 +39,12 @@ Bachelor's Thesis: *TinyFace: Extreme Edge Face Detection on Embedded Devices* (
 ## SKILLS
 *I speak* English, German, Romanian  
 
-*Software*  
-Python, UNIX, C/C++, LaTeX, Final Cut Pro
+<!-- *Software*  
+Python, UNIX, C/C++, LaTeX, Final Cut Pro -->
+
+*Programming*  
+Python, C/C++, Git
+*Frameworks*  
+TensorFlow, React.js
+*Misc*  
+EU Driver’s License, Final Cut Pro video editing, LATEX
