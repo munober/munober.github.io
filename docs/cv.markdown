@@ -37,8 +37,7 @@ Degree in progress. Expected to finish in 2022. My focus is on Machine Learning,
 Bachelor's Thesis: *TinyFace: Extreme Edge Face Detection on Embedded Devices* ([read here](https://github.com/munober/thesis/blob/master/digital_edition.pdf))
 
 ## SKILLS
-*Languages*  
-English, German, Romanian  
+*I speak* English, German, Romanian  
 
 *Software*  
 Python, UNIX, C/C++, LaTeX, Final Cut Pro
