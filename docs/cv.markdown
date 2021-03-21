@@ -27,7 +27,7 @@ I have worked as a tutor in several German-language, international summer camps 
 <!-- *Secretary-General @ Model United Nations of Bucharest 2015-2016*  
 I was the leader of the organizing team of the 2016 edition of my high school’s international MUN conference, with over 350 participants, 200 of which came from abroad. -->
 
-## Education
+## EDUCATION
 
 **Technical University of Munich**  
 *M.Sc. Electrical Engineering and Information Technology* 2020-2022  
@@ -36,7 +36,7 @@ Degree in progress. Expected to finish in 2022. My focus is on Machine Learning,
 *B.Sc. Electrical Engineering and Information Technology*  2017-2020  
 Bachelor's Thesis: *TinyFace: Extreme Edge Face Detection on Embedded Devices* ([read here](https://github.com/munober/thesis/blob/master/digital_edition.pdf))
 
-## Skills
+## SKILLS
 *Languages*  
 English, German, Romanian  
 
