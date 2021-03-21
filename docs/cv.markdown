@@ -15,7 +15,7 @@ permalink: /cv/
 *Junior Information Security Manager @ Celonis SE (Munich) Dec 2020 - Present*  
 Celonis is a rapidly-expanding SaaS B2B upstart, based in New York and Munich. As part of the System Engineering team, my tasks included working on audit and compliance processes, developing and maintaining company policies and SOP’s, establishing, organizing and managing internal training programs. I have also contributed to the development of the tool stack and processes used for information security, data privacy and risk management.
 
-*Student Assistant @ EC (Technical University of Munich) 2020*  
+*Student Assistant @ SEC (Technical University of Munich) 2020*  
 I have worked with the chair for Information Security to prepare lecture material for remote teaching, and held live online labs myself for EE students in Munich and Singapore.
 
 *Team Lead @ adveisor (Technical University of Munich) 2018-2019*  
