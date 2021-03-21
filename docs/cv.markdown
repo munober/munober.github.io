@@ -29,9 +29,8 @@ I was the leader of the organizing team of the 2016 edition of my high school’
 
 ## Education
 
-**Technical University of Munich**    
-*M.Sc. Electrical Engineering and Information Technology* 2020-2022
-
+**Technical University of Munich**  
+*M.Sc. Electrical Engineering and Information Technology* 2020-2022  
 Degree in progress. Expected to finish in 2022. My focus is on Machine Learning, IoT and Communications Engineering.
 
 *B.Sc. Electrical Engineering and Information Technology*  2017-2020  
@@ -39,9 +38,7 @@ Bachelor's Thesis: *TinyFace: Extreme Edge Face Detection on Embedded Devices* (
 
 ## Skills
 *Languages*  
-English
-German
-Romanian
+English, German, Romanian  
 
 *Software*  
 Python, UNIX, C/C++, LaTeX, Final Cut Pro
