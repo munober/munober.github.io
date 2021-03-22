@@ -8,6 +8,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \documentclass[paper=a4,fontsize=11pt]{scrartcl}
+\renewcommand{\baselinestretch}{1.3} % set line spacing
 							
 \usepackage[english]{babel}
 %\usepackage[utf8x]{inputenc}
@@ -17,8 +18,10 @@
 \usepackage{amsmath,amsfonts,amsthm}     % Math packages
 \usepackage{graphicx}                    % Enable pdflatex
 \usepackage[svgnames]{xcolor}            % Colors by their 'svgnames'
-\usepackage{geometry}
-	\textheight=700px                    % Saving trees ;-)
+\usepackage[margin=0.8in]{geometry} % left margin
+	\textheight=720px                    % Saving trees ;-)
+	\textwidth = 6.65in
+	
 \usepackage{url}
 \usepackage{hyperref}
 \usepackage{wrapfig}
@@ -39,7 +42,7 @@
 %%% ------------------------------------------------------------
 \newlength{\spacebox}
 \settowidth{\spacebox}{8888888888}			% Box to align text
-\newcommand{\sepspace}{\vspace*{1em}}		% Vertical space macro
+\newcommand{\sepspace}{\vspace*{0.45em}}		% Vertical space macro
 
 \newcommand{\MyName}[1]{ % Name
 
@@ -121,8 +124,7 @@
 \sepspace
 
 \WorkEntry{Camp Assistant}{2017 – 2019}{Tumba (Brasov, Romania), During the Summer}{I have worked as a tutor in several German-language, international summer camps in Transylvania, with participating children aged 6-14.}
-\sepspace
-
+%\sepspace
 % \WorkEntry{Secretary-General}{2015-2016}{Model United Nations of Bucharest}{ I was the leader of the organizing team of the 2016 edition of my high school’s international MUN conference, with over 350 participants, 200 of which came from abroad.}
 
 %%% Education
