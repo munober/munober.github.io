@@ -13,15 +13,16 @@
 \usepackage[english]{babel}
 %\usepackage[utf8x]{inputenc}
 \usepackage{fontspec}
-\setmainfont{Raleway}
+\setmainfont{Palatino}
+%\setmainfont{Raleway}
 %\setmainfont{Georgia}
 \usepackage[protrusion=true,expansion=true]{microtype}
 \usepackage{amsmath,amsfonts,amsthm}     % Math packages
 \usepackage{graphicx}                    % Enable pdflatex
 \usepackage[svgnames]{xcolor}            % Colors by their 'svgnames'
-\usepackage[margin=0.8in]{geometry} % left margin
+\usepackage[margin=0.9in]{geometry} % left margin
 	\textheight=720px                    % Saving trees ;-)
-	\textwidth = 6.7in
+	\textwidth = 6.5in
 	
 \usepackage{url}
 \usepackage{hyperref}
@@ -43,13 +44,13 @@
 %%% ------------------------------------------------------------
 \newlength{\spacebox}
 \settowidth{\spacebox}{8888888888}			% Box to align text
-\newcommand{\sepspace}{\vspace*{0.3em}}		% Vertical space macro
+\newcommand{\sepspace}{\vspace*{0.45em}}		% Vertical space macro
 
 \newcommand{\MyName}[1]{ % Name
 
-\Huge 
-%\usefont{OT1}
-%{phv}{b}{n} 
+\huge 
+\usefont{OT1}
+{phv}{b}{n} 
 \hfill #1 \par \normalsize \normalfont}
 		
 \newcommand{\MySlogan}[1]{ % Slogan (optional)
@@ -94,7 +95,7 @@
 	\includegraphics[width=0.15\textwidth]{teo}
 \end{wrapfigure}
 
-\MyName{Teodor Fratiloiu}
+\MyName{TEODOR FRATILOIU}
 % \MySlogan{teo@fratiloiu.com}
 \MySlogan{\href{mailto:teo@fratiloiu.com}{\underline{teo@fratiloiu.com}}}
 
