@@ -12,8 +12,9 @@ My reading lists for recent history.
 2. The Hard Thing About Hard Things [Ben Horowitz]
 3. Why Nations Fail [Daron Acemoglu, James A. Robinson]
 4. The Monk and the Riddle [Randy Komisar]
-5. The Velvet Rope Economey [Nelson Schwartz]
+5. The Velvet Rope Economy [Nelson Schwartz]
 6. How to Avoid a Climate Disaster [Bill Gates]
+7. Beyond Order [Jordan B. Peterson]
 
 **2020** 
 
@@ -34,7 +35,7 @@ My reading lists for recent history.
 15. QualityLand [Mark-Uwe Kling]
 16.	Total Recall [Arnold Schwarzenegger]
 17.	Finding my Virginity [Richard Branson]
-18.	Maps of Meaning [Jordan Peterson]
+18.	Maps of Meaning [Jordan B. Peterson]
 19.	The Laws of Human Nature [Robert Greene]
 20.	The Prince [Niccolo Machiavelli]
 21.	Power [Robert Greene]
