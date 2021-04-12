@@ -17,6 +17,7 @@ My reading lists for recent history.
 7. Beyond Order [Jordan B. Peterson]
 8. Everything is Fucked [Mark Manson]
 9. A World Without Email [Cal Newport]
+10. Tools of Titans [Tim Ferriss]
 
 **2020** 
 
