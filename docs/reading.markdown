@@ -15,6 +15,8 @@ My reading lists for recent history.
 5. The Velvet Rope Economy [Nelson Schwartz]
 6. How to Avoid a Climate Disaster [Bill Gates]
 7. Beyond Order [Jordan B. Peterson]
+8. Everything is Fucked [Mark Manson]
+9. A World Without Email [Cal Newport]
 
 **2020** 
 
