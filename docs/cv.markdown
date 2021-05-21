@@ -16,7 +16,7 @@ permalink: /cv/
 Celonis is a rapidly-expanding SaaS B2B upstart, based in New York and Munich. As part of the System Engineering team, my tasks included working on audit and compliance processes, developing and maintaining company policies and SOP’s, establishing, organizing and managing internal training programs. I have also contributed to the development of the tool stack and processes used for information security, data privacy and risk management.
 
 *Student Assistant @ SEC (Technical University of Munich), 2020*  
-I have worked with the chair for Information Security to prepare lecture material for remote teaching, and held live online labs myself for EE students in Munich and Singapore.
+I have worked with the chair for Information Security to prepare lecture material, shoot educational videos, and, as part of a team, held live online lab sessions for EE students in Munich and Singapore.
 
 *Team Lead @ adveisor (Technical University of Munich), 2018-2019*  
 I took on a leadership and mentoring role for a team of 10, assuming project and product management responsibilities. I also hosted workshops for university students on topics such as project and time management, group dynamics, team leadership and basic negotiation.
