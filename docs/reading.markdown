@@ -19,6 +19,8 @@ My reading lists for recent history.
 9. A World Without Email [Cal Newport]
 10. Tools of Titans [Tim Ferriss]
 11. Homo Deus [Yuval Noah Harari]
+12. Escaping the Build Trap [Melissa Perri]
+13. Empowered [Marty Cagan]
 
 **2020** 
 
