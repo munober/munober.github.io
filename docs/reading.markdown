@@ -21,7 +21,8 @@ My reading lists for recent history.
 11. Homo Deus [Yuval Noah Harari]
 12. Escaping the Build Trap [Melissa Perri]
 13. Empowered [Marty Cagan]
-
+14. The Second World War [John Keegan]
+15. Growth Hacker Marketing [Ryan Holiday]
 **2020** 
 
 1.	The lean Startup [Eric Ries]
