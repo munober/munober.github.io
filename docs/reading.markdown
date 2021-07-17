@@ -23,6 +23,8 @@ My reading lists for recent history.
 13. Empowered [Marty Cagan]
 14. The Second World War [John Keegan]
 15. Growth Hacker Marketing [Ryan Holiday]
+16. The Everything Store [Brad Stone]
+17. The Culture Map [Erin Meyer]
 **2020** 
 
 1.	The lean Startup [Eric Ries]
