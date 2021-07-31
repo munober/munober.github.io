@@ -17,13 +17,14 @@
 \definecolor{custom_gray}{RGB}{51,51,51}
 \definecolor{custom_gray_dark}{RGB}{45,45,45}
 \definecolor{custom_white}{RGB}{240,240,240}
+\definecolor{link_blue}{RGB}{25,71,167}
 
 \usepackage{url}
 \usepackage{hyperref}
 \hypersetup{
   colorlinks=true,
-  linkcolor=black,
-  urlcolor=black
+  linkcolor=link_blue,
+  urlcolor=link_blue
 }
 \usepackage{wrapfig}
 \usepackage{fancyhdr}
@@ -98,12 +99,12 @@
 		\hspace{2.5em} #2 \par}    % Entry value	
 		
 \newcommand{\EducationEntry}[4]{
-		\noindent \textbf{#1} \hfill      % Study
+		\noindent \textit{#1} \hfill      % Study
 		%\colorbox{Black}{\parbox{6em}{\hfill\color{White}#2}} \par  % Duration
 %		\colorbox{custom_gray}{\color{custom_white}#2} \par  % Duration
 		\colorbox{black}{\color{white}#2} \par  % Duration
-		\noindent \textit{#3} \par        % School
-		\noindent\hangindent=2em\hangafter=0 \small #4 % Description
+%		\noindent \textit{#3} \par        % School
+		\noindent\hangindent=2em\hangafter=0 \small #3 % Description
 		\normalsize \par}
 
 \newcommand{\WorkEntry}[4]{				  % Same as \EducationEntry
@@ -142,14 +143,14 @@
 
 \begin{adjustwidth}{-0.9in}{}
 %\colorbox{custom_gray}{%
-\colorbox{white}{%
+%\colorbox{white}{%
 %     	\textcolor{custom_white}{
      	\textcolor{black}{
 	\parbox[b][2.5cm][c]{21cm}{%
             \usefont{OT1}{phv}{n}{n}
             \huge 
             \centering
-            \vspace*{0.5cm}
+            \vspace*{1cm}
             \hspace*{3.5cm}Teodor \textbf{Fratiloiu}
             \large
             \newline
@@ -158,7 +159,7 @@
             \href{https://www.linkedin.com/in/teodor-fratiloiu/}{linkedin.com/in/teodor-fratiloiu}  \textbar\
             \href{https://github.com/munober}{github.com/munober} 
         }
-        }
+%        }
 }
 
 \end{adjustwidth}
@@ -178,7 +179,7 @@
 }
 \sepspace
 
-\WorkEntry{Student Assistant}{2020-2021}{SEC (Technical University of Munich)}
+\WorkEntry{Student Assistant}{2020 – 2021}{SEC (Technical University of Munich)}
 {
 \begin{itemize}
   \item Worked with TUM's chair for Information Security to prepare lecture material, shoot educational videos
@@ -191,7 +192,7 @@
 {
 \begin{itemize}
   \item Took on a leadership and mentoring role for a team of 10, assuming project management responsibilities
-  \item Hosted workshops for university students on topics such as project and time management, group dynamics, leadership and basic negotiation
+  \item Hosted workshops for university students on topics such as project management, group dynamics, leadership, time management and basic negotiation
 \end{itemize}
 }
 \sepspace
@@ -209,11 +210,12 @@
 %%% Education
 %%% ------------------------------------------------------------
 \NewPart{Education}{}
+\textbf{Technical University of Munich}
 
-\EducationEntry{M.S. Electrical Engineering and Information Technology}{2020 – 2022}{Technical University of Munich}{Areas of focus: Machine Learning, Security and Computer Vision}
+\EducationEntry{M.Sc. Electrical Engineering and Information Technology}{2020 – 2022}{Areas of focus: Machine Learning, Security and Computer Vision}
 \sepspace
 
-\EducationEntry{B.S. Electrical Engineering and Information Technology}{2017 – 2020}{Technical University of Munich}{My thesis was about Machine Learning on IoT devices. This degree was taught almost exclusively in German.}
+\EducationEntry{B.Sc. Electrical Engineering and Information Technology}{2017 – 2020}{My \href{https://github.com/munober/thesis/blob/master/digital_edition.pdf}{thesis} was about Machine Learning on IoT devices. This degree was taught almost exclusively in German.}
 
 
 %%% Skills
