@@ -20,13 +20,23 @@
 \usepackage{graphicx}                    % Enable pdflatex
 \usepackage[svgnames]{xcolor}            % Colors by their 'svgnames'
 \usepackage[margin=0.9in]{geometry} % left margin
-	\textheight=720px                    % Saving trees ;-)
+	\textheight=740px                    % Saving trees ;-)
 	\textwidth = 6.5in
 	
+\definecolor{custom_gray}{RGB}{51,51,51}
+\definecolor{custom_gray_dark}{RGB}{45,45,45}
+\definecolor{custom_white}{RGB}{240,240,240}
+
 \usepackage{url}
 \usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=custom_white,
+  urlcolor=custom_white
+}
 \usepackage{wrapfig}
 \usepackage{fancyhdr}
+\usepackage{changepage}
 
 \frenchspacing              % Better looking spacings after periods
 %\pagestyle{fancy}           % No pagenumbers/headers/footers
@@ -39,22 +49,32 @@
 \sectionfont{%			            % Change font of \section command
 	\usefont{OT1}{ptl}{b}{n}%		% bch-b-n: CharterBT-Bold font
 % For reference, see: 	https://www.overleaf.com/learn/latex/Font_typefaces
-	\sectionrule{0pt}{0pt}{-5pt}{1pt}		 % Section header underlines
+	\color{custom_gray_dark}	
+	\sectionrule{0pt}{0pt}{-5pt}{1pt}	 % Section header underlines
 }
 
 %%% Macros
 %%% ------------------------------------------------------------
 \newlength{\spacebox}
 \settowidth{\spacebox}{8888888888}			% Box to align text
+\setlength{\voffset}{-0.75in}
+\setlength{\headsep}{5pt}
 \newcommand{\sepspace}{\vspace*{0.45em}}		% Vertical space macro
 
 % For reference, see: 	https://www.overleaf.com/learn/latex/Font_typefaces
 
 %\fancyhf{}
-%\chead{\colorbox{black}{%
-%    \parbox[b][0.55cm][c]{17cm}{%
-%      \centering
-%      \textcolor{white}{\bfseries\fontfamily{phv}\selectfont\small This is my fancy resume}%
+%\chead{
+%	\colorbox{myblue}{%
+%    	\parbox[b][2cm][c]{17cm}{%
+%     	\textcolor{white}{
+%%	\bfseries\fontfamily{phv}\selectfont
+%	\huge 
+%        \usefont{OT1}{phv}{b}{n}
+%        Teodor Fratiloiu
+%        \newline
+%	\large 
+%	\href{mailto:teo@fratiloiu.com}{\underline{teo@fratiloiu.com}}}%
 %    }%
 %  }%
 %}
@@ -89,14 +109,14 @@
 \newcommand{\EducationEntry}[4]{
 		\noindent \textbf{#1} \hfill      % Study
 		%\colorbox{Black}{\parbox{6em}{\hfill\color{White}#2}} \par  % Duration
-		\colorbox{Black}{\color{White}#2} \par  % Duration
+		\colorbox{custom_gray}{\color{custom_white}#2} \par  % Duration
 		\noindent \textit{#3} \par        % School
 		\noindent\hangindent=2em\hangafter=0 \small #4 % Description
 		\normalsize \par}
 
 \newcommand{\WorkEntry}[4]{				  % Same as \EducationEntry
 		\noindent \textbf{#1} @ \textit{#3} \hfill      % Jobname & Company
-		\colorbox{Black}{\color{White}#2} \par  % Duration
+		\colorbox{custom_gray}{\color{custom_white}#2} \par  % Duration
 		% \noindent \textit{#3} \par              % Company
 		\noindent\hangindent=2em\hangafter=0 \small #4 % Description
 		\normalsize \par}
@@ -110,11 +130,11 @@
 %	\includegraphics[width=0.15\textwidth]{teo}
 %\end{wrapfigure}
 
-\MyName{TEODOR FRATILOIU}
+%\MyName{TEODOR FRATILOIU}
 % \MySlogan{teo@fratiloiu.com}
-\MySlogan{\href{mailto:teo@fratiloiu.com}{\underline{teo@fratiloiu.com}}}
+%\MySlogan{\href{mailto:teo@fratiloiu.com}{\underline{teo@fratiloiu.com}}}
 
-\sepspace
+%\sepspace
 
 %%% Personal details
 %%% ------------------------------------------------------------
@@ -127,20 +147,67 @@
 % \PersonalEntry{Email}{\url{teo@fratiloiu.com}}
 % \PersonalEntry{Nationality}{Romanian}
 
+\begin{adjustwidth}{-0.9in}{}
+\colorbox{custom_gray}{%
+     	\textcolor{custom_white}{
+	\parbox[b][2.5cm][c]{21cm}{%
+            \usefont{OT1}{phv}{n}{n}
+            \huge 
+            \centering
+            \vspace*{0.5cm}
+            \hspace*{3.5cm}Teodor \textbf{Fratiloiu}
+            \large
+            \newline
+%            \hspace*{0.9in}
+            \href{mailto:teo@fratiloiu.com}{teo@fratiloiu.com} \textbar\
+            \href{https://www.linkedin.com/in/teodor-fratiloiu/}{linkedin.com/in/teodor-fratiloiu}  \textbar\
+            \href{https://github.com/munober}{github.com/munober} 
+        }
+        }
+}
+
+\end{adjustwidth}
+
 %%% Work experience
 %%% ------------------------------------------------------------
 \NewPart{Experience}{}
 
-\WorkEntry{Junior Information Security Manager}{2020 – }{Celonis SE (Munich)}{Celonis is a rapidly-expanding SaaS B2B technology upstart, based in New York and Munich. As part of the System Engineering team, my tasks included working on audit and compliance processes, developing and maintaining company policies and SOP's, establishing, organizing and managing internal training programs. I have also contributed to the development of the tool stack and processes used for information security, data privacy and risk management.}
+\WorkEntry{Junior Information Security Manager}{2020 – }{Celonis SE (Munich)}
+{
+\begin{itemize}
+  \item Celonis is a rapidly-expanding SaaS B2B technology upstart, valued at over \$11b, and based in New York and Munich. I was part of the Systems Engineering and Security teams.
+  \item Worked on trust, compliance and audit projects (including successful SOC 2 and ISO 27001 certifications)
+  \item Maintained company policies and SOP's; established, organized and managed internal training programs
+  \item Developed internal processes for information security management, data privacy and risk management
+\end{itemize}
+}
 \sepspace
 
-\WorkEntry{Student Assistant}{2020}{SEC (Technical University of Munich)}{I have worked with the chair for Information Security to prepare lecture material, shoot educational videos, and, as part of a team, held live online lab sessions for EE students in Munich and Singapore.}
+\WorkEntry{Student Assistant}{2020}{SEC (Technical University of Munich)}
+{
+\begin{itemize}
+  \item Worked with TUM's chair for Information Security to prepare lecture material, shoot educational videos
+  \item Held live online lab sessions for EE students in Munich and Singapore, as part of the teaching team
+\end{itemize}
+}
 \sepspace
 
-\WorkEntry{Team Lead}{2018 – 2019}{adveisor (Technical University of Munich)}{I took on a leadership and mentoring role for a team of 10, assuming project and product management responsibilities. I also hosted workshops for university students on topics such as project and time management, group dynamics, team leadership and basic negotiation.}
+\WorkEntry{Team Lead}{2018 – 2019}{adveisor (Technical University of Munich)}
+{
+\begin{itemize}
+  \item Took on a leadership and mentoring role for a team of 10, assuming project management responsibilities
+  \item Hosted workshops for university students on topics such as project and time management, group dynamics, leadership and basic negotiation
+\end{itemize}
+}
 \sepspace
 
-\WorkEntry{Camp Assistant}{2017 – 2019}{Tumba (Brasov, Romania), During the Summer}{I have worked as a tutor in several German-language, international summer camps in Transylvania, with participating children aged 6-14.}
+\WorkEntry{Camp Assistant}{2017 – 2019}{Tumba (Brasov, Romania), During the Summer}
+{
+\begin{itemize}
+  \item Worked as a tutor in several German-language, international summer camps in Transylvania
+  \item The participating children were of ages 6–14.
+\end{itemize}
+}
 %\sepspace
 % \WorkEntry{Secretary-General}{2015-2016}{Model United Nations of Bucharest}{ I was the leader of the organizing team of the 2016 edition of my high school’s international MUN conference, with over 350 participants, 200 of which came from abroad.}
 
@@ -148,10 +215,11 @@
 %%% ------------------------------------------------------------
 \NewPart{Education}{}
 
-\EducationEntry{M.S. Electrical Engineering and Information Technology}{2020 – 2022}{Technical University of Munich}{Degree in progress. Expected to finish in 2022. My main areas of focus are Machine Learning, Security and Computer Vision.}
+\EducationEntry{M.S. Electrical Engineering and Information Technology}{2020 – 2022}{Technical University of Munich}{Areas of focus: Machine Learning, Security and Computer Vision}
 \sepspace
 
-\EducationEntry{B.S. Electrical Engineering and Information Technology}{2017 – 2020}{Technical University of Munich}{My graduation thesis was about Machine Learning on IoT devices. It was titled \textit{TinyFace: Extreme Edge Face Detection on Embedded Devices} (\href{https://github.com/munober/thesis/blob/master/digital_edition.pdf}{\underline{read here}}). This degree was taught almost exclusively in German.}
+\EducationEntry{B.S. Electrical Engineering and Information Technology}{2017 – 2020}{Technical University of Munich}{My thesis was about Machine Learning on IoT devices. This degree was taught almost exclusively in German.}
+
 
 %%% Skills
 %%% ------------------------------------------------------------
