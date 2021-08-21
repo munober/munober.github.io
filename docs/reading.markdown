@@ -25,6 +25,9 @@ My reading lists for recent history.
 15. Growth Hacker Marketing [Ryan Holiday]
 16. The Everything Store [Brad Stone]
 17. The Culture Map [Erin Meyer]
+18. The Innovators [Walter Isaacson]
+19. Business Adventures [John Brooks]
+
 **2020** 
 
 1.	The lean Startup [Eric Ries]
