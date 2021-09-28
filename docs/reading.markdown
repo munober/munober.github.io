@@ -27,6 +27,7 @@ My reading lists for recent history.
 17. The Culture Map [Erin Meyer]
 18. The Innovators [Walter Isaacson]
 19. Business Adventures [John Brooks]
+20. The Psychology of Money [Morgan Housel]
 
 **2020** 
 
