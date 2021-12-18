@@ -6,6 +6,10 @@ permalink: /reading/
 
 My reading lists for recent history. 
 
+**2022**
+1. No Rules Rules [Reed Hastings, Erin Meyer]
+2. Business Adventures [John Brooks]
+
 **2021**
 
 1. Zero to One [Peter Thiel]
@@ -20,14 +24,15 @@ My reading lists for recent history.
 10. Tools of Titans [Tim Ferriss]
 11. Homo Deus [Yuval Noah Harari]
 12. A Thousand Brains [Jeff Hawkins]
-13. Empowered [Marty Cagan]
-14. The Second World War [John Keegan]
+13. Inspired [Marty Cagan]
+14. Empowered [Marty Cagan]
 15. Growth Hacker Marketing [Ryan Holiday]
 16. The Everything Store [Brad Stone]
 17. The Culture Map [Erin Meyer]
 18. The Innovators [Walter Isaacson]
-19. Business Adventures [John Brooks]
+19. The Second World War [John Keegan]
 20. The Psychology of Money [Morgan Housel]
+21. A Thousand Brains [Jeff Hawkins]
 
 **2020** 
 
