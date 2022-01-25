@@ -9,6 +9,7 @@ My reading lists for recent history.
 **2022**
 1. No Rules Rules [Reed Hastings, Erin Meyer]
 2. Business Adventures [John Brooks]
+3. The Classical School [Callum Williams]
 
 **2021**
 
@@ -32,7 +33,6 @@ My reading lists for recent history.
 18. The Innovators [Walter Isaacson]
 19. The Second World War [John Keegan]
 20. The Psychology of Money [Morgan Housel]
-21. A Thousand Brains [Jeff Hawkins]
 
 **2020** 
 
