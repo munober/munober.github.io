@@ -12,7 +12,7 @@ My reading lists for recent history.
 3. The Classical School [Callum Williams]
 4. Building a StoryBrand [Donald Miller]
 5. Moby-Dick [Herman Melville]
-
+6. Walden [Henry David Thoreau]
 **2021**
 
 1. Zero to One [Peter Thiel]
