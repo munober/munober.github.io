@@ -10,6 +10,8 @@ My reading lists for recent history.
 1. No Rules Rules [Reed Hastings, Erin Meyer]
 2. Business Adventures [John Brooks]
 3. The Classical School [Callum Williams]
+4. Building a StoryBrand [Donald Miller]
+5. Moby-Dick [Herman Melville]
 
 **2021**
 
