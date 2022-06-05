@@ -13,6 +13,8 @@ My reading lists for recent history.
 4. Building a StoryBrand [Donald Miller]
 5. Moby-Dick [Herman Melville]
 6. Walden [Henry David Thoreau]
+7. Principles for Dealing with the Changing World Order [Ray Dalio]
+
 **2021**
 
 1. Zero to One [Peter Thiel]
