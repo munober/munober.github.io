@@ -14,6 +14,8 @@ My reading lists for recent history.
 5. Moby-Dick [Herman Melville]
 6. Walden [Henry David Thoreau]
 7. Principles for Dealing with the Changing World Order [Ray Dalio]
+8. For Whom The Bell Tolls [Ernest Hemingway]
+9. To Kill a Mockingbird [Harper Lee]
 
 **2021**
 
