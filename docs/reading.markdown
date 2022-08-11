@@ -11,11 +11,13 @@ My reading lists for recent history.
 2. Business Adventures [John Brooks]
 3. The Classical School [Callum Williams]
 4. Building a StoryBrand [Donald Miller]
-5. Moby-Dick [Herman Melville]
+5. Moby Dick [Herman Melville]
 6. Walden [Henry David Thoreau]
 7. Principles for Dealing with the Changing World Order [Ray Dalio]
 8. For Whom The Bell Tolls [Ernest Hemingway]
 9. To Kill a Mockingbird [Harper Lee]
+10. Adventures of Huckleberry Finn [Mark Twain]
+11. The Black Swan [Nassim Nicholas Taleb]
 
 **2021**
 
@@ -26,7 +28,7 @@ My reading lists for recent history.
 5. The Velvet Rope Economy [Nelson Schwartz]
 6. How to Avoid a Climate Disaster [Bill Gates]
 7. Beyond Order [Jordan B. Peterson]
-8. Everything is F*cked [Mark Manson]
+8. Everything is F* [Mark Manson]
 9. A World Without Email [Cal Newport]
 10. Tools of Titans [Tim Ferriss]
 11. Homo Deus [Yuval Noah Harari]
@@ -111,4 +113,4 @@ My reading lists for recent history.
 4.	Thinking, Fast and Slow [Daniel Kahneman]
 5.	12 Rules for life [Jordan B. Peterson]
 6.	Algorithms to live by [Brian Christian]
-7.	The subtle art of not giving a f*ck [Mark Manson]
+7.	The Subtle Art of not Giving a f* [Mark Manson]
