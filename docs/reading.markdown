@@ -18,6 +18,8 @@ My reading lists for recent history.
 9. To Kill a Mockingbird [Harper Lee]
 10. Adventures of Huckleberry Finn [Mark Twain]
 11. The Black Swan [Nassim Nicholas Taleb]
+12. Think Again [Adam Grant]
+13. Skin in the Game [Nassim Nicholas Taleb]
 
 **2021**
 
