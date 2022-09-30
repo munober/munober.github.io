@@ -20,6 +20,7 @@ My reading lists for recent history.
 11. The Black Swan [Nassim Nicholas Taleb]
 12. Think Again [Adam Grant]
 13. Skin in the Game [Nassim Nicholas Taleb]
+14. Leonardo Da Vinci [Walter Isaacson]
 
 **2021**
 
