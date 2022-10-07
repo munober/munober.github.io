@@ -21,6 +21,8 @@ My reading lists for recent history.
 12. Think Again [Adam Grant]
 13. Skin in the Game [Nassim Nicholas Taleb]
 14. Leonardo Da Vinci [Walter Isaacson]
+15. Out of Many, One [George W. Bush]
+16. Build [Tony Fadell]
 
 **2021**
 
