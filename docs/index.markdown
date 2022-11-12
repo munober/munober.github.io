@@ -5,5 +5,4 @@
 layout: page
 ---
 
-[See my **CV**](/cv).  
 [Contact me](mailto:teo@fratiloiu.com).
