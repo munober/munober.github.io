@@ -25,6 +25,7 @@ My reading lists for recent history.
 16. Build [Tony Fadell]
 17. Trailblazer [Marc Benioff]
 18. Churchill [Andrew Roberts]
+19. Team of Rivals [Doris Kearns Goodwin]
 
 **2021**
 
