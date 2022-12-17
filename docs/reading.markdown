@@ -26,6 +26,7 @@ My reading lists for recent history.
 17. Trailblazer [Marc Benioff]
 18. Churchill [Andrew Roberts]
 19. Team of Rivals [Doris Kearns Goodwin]
+20. Dune [Frank Herbert]
 
 **2021**
 
