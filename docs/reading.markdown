@@ -4,7 +4,13 @@ title: Reading List
 permalink: /reading/
 ---
 
-My reading lists for recent history. 
+My reading lists for recent history.  
+
+**2023**
+1. Skin in the Game [Nassim Nicholas Taleb]
+2. Churchill [Andrew Roberts]
+3. To Kill a Mockingbird [Harper Lee]
+4. Dune [Frank Herbert]
 
 **2022**
 1. No Rules Rules [Reed Hastings, Erin Meyer]
@@ -15,18 +21,14 @@ My reading lists for recent history.
 6. Walden [Henry David Thoreau]
 7. Principles for Dealing with the Changing World Order [Ray Dalio]
 8. For Whom The Bell Tolls [Ernest Hemingway]
-9. To Kill a Mockingbird [Harper Lee]
-10. Adventures of Huckleberry Finn [Mark Twain]
-11. The Black Swan [Nassim Nicholas Taleb]
-12. Think Again [Adam Grant]
-13. Skin in the Game [Nassim Nicholas Taleb]
-14. Leonardo Da Vinci [Walter Isaacson]
-15. Out of Many, One [George W. Bush]
-16. Build [Tony Fadell]
-17. Trailblazer [Marc Benioff]
-18. Churchill [Andrew Roberts]
-19. Team of Rivals [Doris Kearns Goodwin]
-20. Dune [Frank Herbert]
+9. Adventures of Huckleberry Finn [Mark Twain]
+10. The Black Swan [Nassim Nicholas Taleb]
+11. Think Again [Adam Grant]
+12. Leonardo Da Vinci [Walter Isaacson] 
+13. Out of Many, One [George W. Bush]
+14. Build [Tony Fadell]
+15. Trailblazer [Marc Benioff]
+16. Team of Rivals [Doris Kearns Goodwin]
 
 **2021**
 
