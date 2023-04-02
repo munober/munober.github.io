@@ -11,6 +11,8 @@ My reading lists for recent history.
 2. Churchill [Andrew Roberts]
 3. To Kill a Mockingbird [Harper Lee]
 4. Dune [Frank Herbert]
+5. Norwegian Wood [Haruki Murakami]
+6. Kafka on the Shore [Haruki Murakami]
 
 **2022**
 1. No Rules Rules [Reed Hastings, Erin Meyer]
