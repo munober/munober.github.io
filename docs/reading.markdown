@@ -13,6 +13,7 @@ My reading lists for recent history.
 4. Dune [Frank Herbert]
 5. Norwegian Wood [Haruki Murakami]
 6. Kafka on the Shore [Haruki Murakami]
+7. Team of Rivals [Doris Kearns Goodwin]
 
 **2022**
 1. No Rules Rules [Reed Hastings, Erin Meyer]
@@ -30,7 +31,6 @@ My reading lists for recent history.
 13. Out of Many, One [George W. Bush]
 14. Build [Tony Fadell]
 15. Trailblazer [Marc Benioff]
-16. Team of Rivals [Doris Kearns Goodwin]
 
 **2021**
 
