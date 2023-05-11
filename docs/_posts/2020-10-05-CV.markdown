@@ -1,9 +1,0 @@
----
-layout: post
-title:  "My Resumé"
-date:   2020-10-05 21:00:00 +0200
-categories: pro
----
-
-New and fresh. Check it out [here](/cv).
-
