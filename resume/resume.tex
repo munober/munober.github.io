@@ -4,14 +4,14 @@
 \usepackage[english]{babel}
 %\usepackage[utf8x]{inputenc}
 \usepackage{fontspec}
-%\setmainfont{Palatino}
-\setmainfont{Hoefler Text}
+\setmainfont{Palatino}
+% \setmainfont{Hoefler Text}
 \usepackage[protrusion=true,expansion=true]{microtype}
 \usepackage{amsmath,amsfonts,amsthm}     % Math packages
 \usepackage{graphicx}                    % Enable pdflatex
 \usepackage[svgnames]{xcolor}            % Colors by their 'svgnames'
 \usepackage[margin=0.9in]{geometry} % left margin
-	\textheight=740px                    % Saving trees ;-)
+	\textheight=760px                    % Saving trees ;-)
 	\textwidth = 6.5in
 	
 \definecolor{custom_gray}{RGB}{51,51,51}
@@ -50,8 +50,8 @@
 \newlength{\spacebox}
 \settowidth{\spacebox}{8888888888}			% Box to align text
 \setlength{\voffset}{-0.75in}
-\setlength{\headsep}{5pt}
-\newcommand{\sepspace}{\vspace*{0.45em}}		% Vertical space macro
+\setlength{\headsep}{3pt}
+\newcommand{\sepspace}{\vspace*{0.35em}}		% Vertical space macro
 
 % For reference, see: 	https://www.overleaf.com/learn/latex/Font_typefaces
 
@@ -151,13 +151,14 @@
             \huge 
             \centering
             \vspace*{1cm}
-            \hspace*{3.5cm}Teodor \textbf{Fratiloiu}
+            \hspace*{3.5cm}Teodor Fratiloiu
             \large
             \newline
 %            \hspace*{0.9in}
-            \href{mailto:teo@fratiloiu.com}{teo@fratiloiu.com} \textbar\
-            \href{https://www.linkedin.com/in/teodor-fratiloiu/}{linkedin.com/in/teodor-fratiloiu}  \textbar\
-            \href{https://github.com/munober}{github.com/munober} 
+            \href{mailto:teodor.fratiloiu@gmail.com}{teodor.fratiloiu@gmail.com} \textbar\
+            \href{https://www.linkedin.com/in/teodor-fratiloiu/}{linkedin.com/in/teodor-fratiloiu}  
+			% \textbar\
+            % \href{https://github.com/munober}{github.com/munober} 
         }
 %        }
 }
@@ -168,40 +169,41 @@
 %%% ------------------------------------------------------------
 \NewPart{Experience}{}
 
-\WorkEntry{Junior Information Security Analyst}{2020 – }{Celonis (Munich)}
+\WorkEntry{Junior Information Security Analyst (GRC)}{Dec 2020 – Feb 2023}{Celonis (Munich)}
 {
 \begin{itemize}
-  \item Celonis is a rapidly-expanding SaaS B2B technology scale-up, valued at over \$13B, and based in New York and Munich. I was part of the Systems Engineering, later Security and Trust teams.
-  \item Worked on GRC and security certification/audit projects (including successful SOC 2 and ISO 27001 certifications)
-  \item Maintained company policies and procedures; established, organized and executed internal training programs
-  \item Developed internal processes for information security management, data privacy and risk management
+  \item Celonis is a rapidly-expanding SaaS B2B technology scale-up, valued at over \$13B, and based in New York and Munich. I was part of the Systems Engineering, later Security and Trust teams, respectively.
+  \item Performed gap assessments to harmonize audit controls across new and existing cybersecurity frameworks; collected audit evidence to maintain continuous compliance with ISO 27001 and SOC 2
+  \item Helped develop and test business continuity (contingency) and disaster (emergency) recovery plans for business units and externally facing products after conferring with stakeholders to identify critical software, hardware, and data assets and risks
+  \item Assisted with developing information security policies, standard operating procedures, and corporate training material, including the management of automated phishing training for the entire organization
+  \item Periodically reviewed access rights to cloud systems, assessed the physical security of premises
 \end{itemize}
 }
-\sepspace
+% \sepspace
 
-\WorkEntry{Student Assistant}{2020 – 2021}{SEC (Technical University of Munich)}
+\WorkEntry{Student Assistant}{2020 – 2021}{Introductory Information Security Courses at TUM}
 {
 \begin{itemize}
-  \item Prepared lecture material, wrote and hosted educational videos.
-  \item Held live online lab sessions for EE students in Munich and Singapore.
+  \item Prepared lab topics for students, explained solutions and hosted educational videos.
+  \item Assisted the teaching staff during live remote classes for students in Munich and Singapore.
 \end{itemize}
 }
-\sepspace
+% \sepspace
 
-\WorkEntry{Coach}{2018 – 2019}{adveisor (Technical University of Munich)}
+\WorkEntry{Member and Mentor}{2018 – 2019}{adveisor (Technical University of Munich)}
 {
 \begin{itemize}
-  \item Hosted project management workshops, mentor to a group of 10 freshmen.
+	\item Participated in a 1-year soft-skills and personal development programme with outside, professional coaching, including multiple 3-5 day offsite training sessions. Applied the acquired knowledge by hosting 10 project management workshops during my second year of university for "mentee" freshmen.
 \end{itemize}
 }
-\sepspace
+% \sepspace
 
-\WorkEntry{Camp Assistant}{2017 – 2019}{Tumba (Brasov, Romania)}
-{
-\begin{itemize}
-  \item Tutor in several German-language summer camps in Transylvania with participating children aged 6–14.
-\end{itemize}
-}
+% \WorkEntry{Camp Assistant}{2017 – 2019}{Tumba (Brasov, Romania)}
+% {
+% \begin{itemize}
+%   \item Tutored in German-language summer camps in Transylvania, with participating children aged 6–14.
+% \end{itemize}
+% }
 %\sepspace
 % \WorkEntry{Secretary-General}{2015-2016}{Model United Nations of Bucharest}{ I was the leader of the organizing team of the 2016 edition of my high school’s international MUN conference, with over 350 participants, 200 of which came from abroad.}
 
@@ -210,10 +212,11 @@
 \NewPart{Education}{}
 \textbf{Technical University of Munich (TUM)}
 
-\EducationEntry{M.Sc. Electrical Engineering and Information Technology}{2020 – 2022}{Areas of focus: Security, Automation and Machine Intelligence}
+\EducationEntry{M.Sc. Electrical Engineering and Information Technology - Graduated}{2020 – 2023}{Areas of focus: Information Security, Automation and Machine Learning \\
+Thesis title: Peeking Into the Decision-Making Process in the Human Mind via DL Models}
 \sepspace
 
-\EducationEntry{B.Sc. Electrical Engineering and Information Technology}{2017 – 2020} {Thesis topic: Machine Learning on Embedded Systems}
+\EducationEntry{B.Sc. Electrical Engineering and Information Technology}{2017 – 2020} {Thesis: Compressing ML models to fit on embedded devices (memory \& compute constraints)}
 
 
 %%% Skills
@@ -223,9 +226,9 @@
 \SkillsEntry{Languages}{English, German, Romanian}
 % \SkillsEntry{}{German (Full Professional Proficiency)}
 % \SkillsEntry{}{Romanian (Native)}
-\SkillsEntry{Coding}{Python, \textsc{C/C++}, JS/Typescript, Embedded}
-\SkillsEntry{Frameworks}{TensorFlow, Flutter}
-\SkillsEntry{Misc}{Final Cut Pro, \LaTeX}
+\SkillsEntry{Coding}{Python, \textsc{C/C++}, JS/Typescript, Embedded Development}
+\SkillsEntry{Frameworks}{TensorFlow, Keras, OpenCV, React, Node.js, Docker, Git, Linux}
+\SkillsEntry{Security}{ISO 27001, SOC 2, NIST, OWASP}
 
 
 %%% References
