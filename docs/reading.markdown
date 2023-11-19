@@ -14,6 +14,9 @@ My reading lists for recent history.
 5. Norwegian Wood [Haruki Murakami]
 6. Kafka on the Shore [Haruki Murakami]
 7. Team of Rivals [Doris Kearns Goodwin]
+8. The Hitchhiker's Guide to the Galaxy [Douglas Adams]
+9. Be Useful [Arnold Schwarzenegger]
+10. Elon Musk [Walter Isaacson]
 
 **2022**
 1. No Rules Rules [Reed Hastings, Erin Meyer]
