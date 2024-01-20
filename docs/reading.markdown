@@ -6,6 +6,10 @@ permalink: /reading/
 
 My reading lists for recent history.  
 
+**2024**
+1. The Snowball: Warren Buffett and the Business of Life [Alice Schroeder]
+2. Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger [Charles T. Munger]
+ 
 **2023**
 1. Skin in the Game [Nassim Nicholas Taleb]
 2. Churchill [Andrew Roberts]
