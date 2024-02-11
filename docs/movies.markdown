@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Reading List
-permalink: /reading/
+title: Movies List
+permalink: /movies/
 ---
 
-Movies I recently saw.  
+All movies I watched (non-comprehensive)
 
 **2024**
 1. Lawrence of Arabia [1962]

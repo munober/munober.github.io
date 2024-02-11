@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Reading List
-permalink: /reading/
+title: Show List
+permalink: /series/
 ---
 
-Movies I recently saw.  
+All TV shows I watched (non-comprehensive)
 
 **2024**
 1. 
