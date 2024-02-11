@@ -4,7 +4,7 @@ title: Movies List
 permalink: /movies/
 ---
 
-All movies and TV Series I watched (non-comprehensive)
+All movies and TV Series I watched (non exhaustive)
 
 *Movies*
 
@@ -12,10 +12,10 @@ All movies and TV Series I watched (non-comprehensive)
 1. Lawrence of Arabia [1962]
 
 **2023**
-1. Barbie [2023]
-2. Oppenheimer [2023]
-3. Avatar 2 [2023]
-4. John Wich 4 [2023]
+1. John Wich 4 [2023]
+2. Avatar 2 [2023]
+3. Barbie [2023]
+4. Oppenheimer [2023]
 5. The Killers of the Flower Moon [2023]
 6. Guardians of the Galaxy Vol. 3 [2023]
 7. Ant-Man and the Wasp: Quantumania [2023]
@@ -26,7 +26,7 @@ All movies and TV Series I watched (non-comprehensive)
 12. Aladdin [1992]
 
 **2022**
-1. Avatar [2009]
+1. The Beauty and the Beast [1991]
 2. Puss in Boots: The Last Wish [2022]
 3. Black Widow [2021]
 4. Doctor Strange in the Multiverse of Madness [2022]
@@ -34,10 +34,11 @@ All movies and TV Series I watched (non-comprehensive)
 6. Turning Red [2022]
 7. Lightyear [2022]
 8. The Lion King [2019]
-9. The Beauty and the Beast [1991]
+9. Avatar [2009]
 10. The Little Mermaid [1989]
 11. Hercules [1997]
 12. The Lion King [1994]
+13. El Camino [2019]
 
 **2021**
 1. Spider-Man: No Way Home [2021]
@@ -80,7 +81,7 @@ All movies and TV Series I watched (non-comprehensive)
 22. Incredibles 2 [2018]
 23. Soul [2020]
 24. Ratatouille [2007]
-25. Borat [2020]
+25. Borat 2 [2020]
 26. Cast Away [2000]
 27. Greyhound [2020]
 28. Once Upon a Time in Hollywood [2019]
@@ -190,6 +191,7 @@ All movies and TV Series I watched (non-comprehensive)
 10. Live and Let Die [1973]
 11. Casino Royale [2006]
 12. Quantum of Solace [2008]
+13. The Simpsons Movie [2007]
 
 **2010**
 1. Star Wars [1977]
@@ -228,12 +230,12 @@ All movies and TV Series I watched (non-comprehensive)
 1. 
 
 **2023**
-1. Better Call Saul [2022]
+1. Better Call Saul S1-S6 [2022]
 2. Big Mouth 
 3. South Park
 
 **2022**
-1. Breaking Bad [2013]
+1. Breaking Bad S1-S5 [2013]
 2. Game of Thrones [2019]
 3. Obi-Wan Kenobi [2022]
 4. Seinfeld [1999]
@@ -247,7 +249,7 @@ All movies and TV Series I watched (non-comprehensive)
 **2020**
 1. The Mandalorian S1 & S2 [2019-2020]
 2. Rick and Morty
-3. The Simpsons
+3. The Simpsons S1-S15
 4. Family Guy
 
 **2019**
