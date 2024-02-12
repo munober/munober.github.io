@@ -39,6 +39,9 @@ All movies and TV Series I watched (non exhaustive)
 11. Hercules [1997]
 12. The Lion King [1994]
 13. El Camino [2019]
+14. The Pianist [2019]
+15. Top Gun: Maverick [2022]
+16. Gone with the Wind [1939]
 
 **2021**
 1. Spider-Man: No Way Home [2021]
@@ -55,6 +58,7 @@ All movies and TV Series I watched (non exhaustive)
 12. Don't Look Up [2021]
 13. Tenet [2020]
 14. Superbad [2007]
+15. Parasite [2019]
 
 **2020**
 1. The Irishman [2019]
@@ -93,6 +97,7 @@ All movies and TV Series I watched (non exhaustive)
 34. Solo: A Star Wars Story [2018]
 35. Taxi Driver [1976]
 36. Goodfellas [1990]
+37. No Country for Old Men [2007]
 
 **2019**
 1. The Revenant [2015]
@@ -105,6 +110,10 @@ All movies and TV Series I watched (non exhaustive)
 8. Inglorious Basterds [2009]
 9. American Pie [1999]
 10. Star Wars: The Rise of Skywalker [2019]
+11. 2001: A Space Odyssey [1968]
+12. Die Hard [1988]
+13. Die Hard 2 [1990]
+14. Ford v Ferrari [2019]
 
 **2018**
 1. Iron Man [2008]
@@ -121,6 +130,8 @@ All movies and TV Series I watched (non exhaustive)
 12. Schindler's List [1993]
 13. La La Land [2016]
 14. Ted [2012]
+15. The Intouchables [2011]
+16. V for Vendetta [2005]
 
 **2017**
 1. Catch me if you can [2002]
@@ -137,12 +148,21 @@ All movies and TV Series I watched (non exhaustive)
 12. Man of Steel [2013]
 13. Dunkirk [2017]
 14. Interstellar [2014]
+15. The Matrix [1999]
+16. Back to the Future [1985]
 
 **2016**
 1. The Godfather [1972]
 2. The Godfather Part II [1974]
 3. Sausage Party [2016]
 4. Rogue One [2016]
+5. Saving Private Ryan [1998]
+6. The Lives of Others [2016]
+7. Fak Ju Goethe [2013]
+8. Toni Erdmann [2016]
+9. 12 Years a Slave [2013]
+10. Son of Saul [2015]
+11. Spotlight [2015]
 
 **2015**
 1. Spectre [2015]
@@ -157,6 +177,7 @@ All movies and TV Series I watched (non exhaustive)
 4. Romeo + Juliet [1996]
 5. The Great Gatsby [2013]
 6. The Interview [2014]
+7. Rush [2013]
 
 **2013**
 1. Shrek Forever After [2010]
@@ -177,6 +198,9 @@ All movies and TV Series I watched (non exhaustive)
 9. Borat [2006]
 10. The Dictator [2012]
 11. Friends with Benefits [2011]
+12. The Lord of the Rings: The Fellowship of the Ring [2001]
+13. The Lord of the Rings: The Two Towers [2002]
+14. The Lord of the Rings: The Return of the King [2003]
 
 **2011**
 1. James Bond
@@ -192,6 +216,7 @@ All movies and TV Series I watched (non exhaustive)
 11. Casino Royale [2006]
 12. Quantum of Solace [2008]
 13. The Simpsons Movie [2007]
+14. Downfall [2004]
 
 **2010**
 1. Star Wars [1977]
@@ -245,6 +270,7 @@ All movies and TV Series I watched (non exhaustive)
 1. WandaVision [2021]
 2. The Falcon and the Winter Soldier [2021]
 3. Loki [2021]
+4. Squid Game [2021]
 
 **2020**
 1. The Mandalorian S1 & S2 [2019-2020]
