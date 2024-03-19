@@ -10,6 +10,7 @@ All movies and TV Series I watched (non exhaustive)
 
 **2024**
 1. Lawrence of Arabia [1962]
+2. Dune: Part II [2024]
 
 **2023**
 1. John Wich 4 [2023]
@@ -24,6 +25,8 @@ All movies and TV Series I watched (non exhaustive)
 10. Monsters University [2013]
 11. Aladdin [2019]
 12. Aladdin [1992]
+13. Ali G Indahouse [2002]
+14. Captain Phillips [2013]
 
 **2022**
 1. The Beauty and the Beast [1991]
@@ -42,6 +45,7 @@ All movies and TV Series I watched (non exhaustive)
 14. The Pianist [2019]
 15. Top Gun: Maverick [2022]
 16. Gone with the Wind [1939]
+17. Dune [2021]
 
 **2021**
 1. Spider-Man: No Way Home [2021]
@@ -132,6 +136,8 @@ All movies and TV Series I watched (non exhaustive)
 14. Ted [2012]
 15. The Intouchables [2011]
 16. V for Vendetta [2005]
+17. A Beautiful Mind [2001]
+18. Ready Player One [2018]
 
 **2017**
 1. Catch me if you can [2002]
@@ -163,12 +169,16 @@ All movies and TV Series I watched (non exhaustive)
 9. 12 Years a Slave [2013]
 10. Son of Saul [2015]
 11. Spotlight [2015]
+12. The Fast and the Furious [2001]
+13. 2 Fast 2 Furious [2003]
+14. Fast & Furious [2009]
 
 **2015**
 1. Spectre [2015]
 2. Inside Out [2015]
 3. Star Wars: The Force Awakens [2015]
 4. Ted 2 [2015]
+5. Mao's Last Dancer [2009]
 
 **2014**
 1. The Wolf of Wall Street [2013]
@@ -252,12 +262,13 @@ All movies and TV Series I watched (non exhaustive)
 *TV shows*
 
 **2024**
-1. 
+1. The Grand Tour: Sand Job [2024]
 
 **2023**
 1. Better Call Saul S1-S6 [2022]
 2. Big Mouth 
 3. South Park
+4. Clarkson's Farm [2023]
 
 **2022**
 1. Breaking Bad S1-S5 [2013]
@@ -265,12 +276,15 @@ All movies and TV Series I watched (non exhaustive)
 3. Obi-Wan Kenobi [2022]
 4. Seinfeld [1999]
 5. Stranger Things [2022]
+6. House of the Dragon [2022]
+7. The Rings of Power [2022]
 
 **2021**
 1. WandaVision [2021]
 2. The Falcon and the Winter Soldier [2021]
 3. Loki [2021]
 4. Squid Game [2021]
+5.  Clarkson's Farm [2021]
 
 **2020**
 1. The Mandalorian S1 & S2 [2019-2020]
@@ -289,3 +303,6 @@ All movies and TV Series I watched (non exhaustive)
 
 **2016**
 1. The Grand Tour S1 [2016]
+
+**2011**
+1. Top Gear [2002-2010]
