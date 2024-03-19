@@ -11,6 +11,7 @@ All movies and TV Series I watched (non exhaustive)
 **2024**
 1. Lawrence of Arabia [1962]
 2. Dune: Part II [2024]
+3. Whiplash [2014]
 
 **2023**
 1. John Wich 4 [2023]
@@ -46,6 +47,7 @@ All movies and TV Series I watched (non exhaustive)
 15. Top Gun: Maverick [2022]
 16. Gone with the Wind [1939]
 17. Dune [2021]
+18. Focus [2015]
 
 **2021**
 1. Spider-Man: No Way Home [2021]
@@ -63,6 +65,7 @@ All movies and TV Series I watched (non exhaustive)
 13. Tenet [2020]
 14. Superbad [2007]
 15. Parasite [2019]
+16. No Time to Die [2021]
 
 **2020**
 1. The Irishman [2019]
@@ -118,6 +121,7 @@ All movies and TV Series I watched (non exhaustive)
 12. Die Hard [1988]
 13. Die Hard 2 [1990]
 14. Ford v Ferrari [2019]
+15. Darkest Hour [2017]
 
 **2018**
 1. Iron Man [2008]
@@ -213,8 +217,8 @@ All movies and TV Series I watched (non exhaustive)
 14. The Lord of the Rings: The Return of the King [2003]
 
 **2011**
-1. James Bond
-2. Goldfinger [1964]
+1. Goldfinger [1964]
+2. Thunderball [1965]
 3. Harry Potter and the Deathly Hallows – Part 1 [2011]
 4. Cars 2 [2011]
 5. Titanic [1997]
