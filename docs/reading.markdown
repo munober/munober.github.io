@@ -9,6 +9,9 @@ My reading lists for recent history.
 **2024**
 1. The Snowball: Warren Buffett and the Business of Life [Alice Schroeder]
 2. Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger [Charles T. Munger]
+3. Lord of the Flies [William Golding]
+4. The Brothers Karamazov [Constance Garnett]
+5. A time of Gifts [Patrick Leigh Fermor]
  
 **2023**
 1. Skin in the Game [Nassim Nicholas Taleb]
