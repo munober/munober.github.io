@@ -1,2 +1,2 @@
 # munober.github.io
-also known as [frah-tee-low-you.com](fratiloiu.com)
+also known as [fruh-tsee-loh-you.com](fratiloiu.com)
