@@ -14,7 +14,7 @@ All movies and TV Series I watched (non exhaustive)
 3. Whiplash [2014]
 
 **2023**
-1. John Wich 4 [2023]
+1. John Wick 4 [2023]
 2. Avatar 2 [2023]
 3. Barbie [2023]
 4. Oppenheimer [2023]
@@ -66,6 +66,9 @@ All movies and TV Series I watched (non exhaustive)
 14. Superbad [2007]
 15. Parasite [2019]
 16. No Time to Die [2021]
+17. John Wick [2014]
+19. John Wick: Chapter 2 [2017]
+20. John Wick: Chapter 3 [2019]
 
 **2020**
 1. The Irishman [2019]
@@ -160,6 +163,9 @@ All movies and TV Series I watched (non exhaustive)
 14. Interstellar [2014]
 15. The Matrix [1999]
 16. Back to the Future [1985]
+17. The Matrix [1999]
+18. The Matrix Reloaded [2003]
+19. The Matrix Revolutions [2003]
 
 **2016**
 1. The Godfather [1972]
@@ -167,7 +173,7 @@ All movies and TV Series I watched (non exhaustive)
 3. Sausage Party [2016]
 4. Rogue One [2016]
 5. Saving Private Ryan [1998]
-6. The Lives of Others [2016]
+6. The Lives of Others [2006]
 7. Fak Ju Goethe [2013]
 8. Toni Erdmann [2016]
 9. 12 Years a Slave [2013]
@@ -192,6 +198,7 @@ All movies and TV Series I watched (non exhaustive)
 5. The Great Gatsby [2013]
 6. The Interview [2014]
 7. Rush [2013]
+8. Paddington [2014]
 
 **2013**
 1. Shrek Forever After [2010]
@@ -201,7 +208,7 @@ All movies and TV Series I watched (non exhaustive)
 5. Rambo III [1988]
 
 **2012**
-1. Skyfall [2012]
+1. The Dictator [2012]
 2. Harry Potter and the Philosopher's Stone [2001]
 3. Harry Potter and the Chamber of Secrets [2002]
 4. Harry Potter and the Prisoner of Azkaban [2004]
@@ -210,7 +217,7 @@ All movies and TV Series I watched (non exhaustive)
 7. Harry Potter and the Half-Blood Prince [2009]
 8. Harry Potter and the Deathly Hallows – Part 2 [2011]
 9. Borat [2006]
-10. The Dictator [2012]
+10. Skyfall [2012]
 11. Friends with Benefits [2011]
 12. The Lord of the Rings: The Fellowship of the Ring [2001]
 13. The Lord of the Rings: The Two Towers [2002]
